@@ -1,0 +1,15 @@
+.card img {
+  max-height: 200px;
+  width: auto;
+  align-self: center;
+}
+.price{
+  font-style: italic;
+  font-size: 20px;
+}
+.card{
+  margin-top: 10px;
+}
+.hidden{
+  display: none;
+}
